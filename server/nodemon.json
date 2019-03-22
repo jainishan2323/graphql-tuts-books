@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "ishan_mac",
+        "MONGO_PASSWORD": "9828998833",
+        "MONGO_DB": "graph-ql-books"
+    }
+}
